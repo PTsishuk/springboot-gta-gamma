@@ -23,6 +23,7 @@ public class GreetingResource {
     	
     	// Adding some documentation to initiate a build..    	
     	// Adding a new comment
+    	// Adding a new comment
     	Greeting greetingObject = null;
 		// the counter value odd (i.e. 1, 3, 5, 7, ...)
         long newCounter = 0; //initialize
